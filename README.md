@@ -56,18 +56,10 @@ The dataset contains six months of illustrative business data, including:
 
 The project was implemented using Python and Matplotlib. The code defines the dataset, creates the charts, customizes their appearance, and arranges them into a single figure.
 
-These charts help identify changes in revenue, customer numbers, and product sales over the reporting period.
+<img width="1844" height="798" alt="Screenshot 2026-10-18 190109" src="https://github.com/user-attachments/assets/70f5af3c-b582-4ebf-98b7-ff188140c211" />
 
+<img width="1842" height="745" alt="Screenshot 2026-10-18 190218" src="https://github.com/user-attachments/assets/b77b4fe9-4889-4d2a-a9e5-018dd13f73b2" />
 
-
-
-### 2. Python Code
-
-The project was implemented using Python and Matplotlib. The code defines the dataset, creates the charts, customizes their appearance, and arranges them into a single figure.
-
-![Python Code Screenshot](images/python_code_screenshot.png)
-
-*Note: Upload your screenshots to the `images` folder using the filenames shown above. If you have only one screenshot, you can remove the second image section until the other screenshot is available.*
 
 ## Key Findings
 
@@ -105,5 +97,6 @@ Further analysis of costs, pricing, marketing activities, and customer behavior 
 Special thanks to Coach Timothy and the Python Study Group (PSG) for providing the hands-on Matplotlib exercises that supported this learning project.
 
 ## Author
+Nnadiukwu Glory Vivian (Junior Data Analyst)
 
 
